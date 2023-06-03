@@ -1,0 +1,10 @@
+pynacl
+psutil
+pypiwin32
+pycryptodome
+requests
+browser_history
+opencv-python
+pynput
+pillow
+filesplit
